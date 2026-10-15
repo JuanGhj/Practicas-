@@ -1,0 +1,1 @@
+Practica de struct, con typedef en c (el c++ se debe al compilador visual studio)
