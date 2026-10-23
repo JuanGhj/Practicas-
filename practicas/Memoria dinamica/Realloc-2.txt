@@ -1,0 +1,1 @@
+Arreglo de tamaño variable, para la carga de productos en un arreglo de tipo struct
